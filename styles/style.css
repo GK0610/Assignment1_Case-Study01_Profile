@@ -1,11 +1,16 @@
 html{
     font-family: 'Times New Roman', Times, serif;
-    background-image: url('/pexels-johannes-plenio-1103970.jpg');
+    /* background-image: url('/images/pexels-johannes-plenio-1103970.jpg');
     background-size: cover;
-    background-position: unset;
+    background-position: unset; */
     
 }
+body{
+background-image: url('../images/pexels-johannes-plenio-1103970.jpg');
+    background-size: cover;
+    background-position: fixed;
 
+}
 
 nav{
     font-family: 'Times New Roman', Times, serif;
