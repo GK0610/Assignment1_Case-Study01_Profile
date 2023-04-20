@@ -148,15 +148,9 @@ ul{
 
 
 #con{
-  
+    text-decoration:2px solid underline;
     text-align: center; 
 }
-#cline{
-    border: 1px solid black;
-    width: 7%;
-    text-align: center;
-}
-
 
 
 
