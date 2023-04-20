@@ -1,0 +1,188 @@
+html{
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('/pexels-johannes-plenio-1103970.jpg');
+    background-size: cover;
+    background-position: unset;
+    
+}
+
+
+nav{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 25px;
+    
+}
+header{
+    margin-top: -25px;
+    background-color: rgb(88, 109, 120);
+    height: 80px;
+    width: 103%;
+    margin-left: -10px;
+}
+
+#title
+{
+    margin-right: 50px;
+    font-weight: bold;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 2em;
+    margin-left: 50px;
+
+}
+#Hello{
+    background-color: rgb(227, 227, 215);
+    margin-top: 60px;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+    text-align: center;
+    color: gray;
+    
+}
+#about{
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#abc{
+    word-wrap: break-word;
+    /* border: 1px solid red; */
+    width: 95em; 
+    height: 220px;
+    text-align: center;
+    font-size:large ;
+    position: relative;right: 100px;
+}
+
+
+hr{
+    border: 1px solid black;
+    width: 95%;
+}
+
+/* #pjs{
+    text-decoration: underline 1px black;
+    text-align: center;
+}
+#pjline1{
+    border: 1px solid gray;
+    width: 25%;
+    
+} 
+
+#ache{
+    text-decoration: underline 1px black;
+    text-align: center;
+}
+
+#acheline1{
+    border: 1px solid gray;
+    width: 25%;
+    
+} 
+
+
+#skills{
+    text-decoration: underline 1px black;
+    text-align: center;
+}
+#sline1{
+    border: 1px solid gray;
+    width: 25%;
+    
+} 
+#edu{
+    text-align: center;
+    color:black;
+    text-decoration: underline;
+}
+ul{
+    position:relative;left: 30em;
+}
+#insti
+{
+    position: relative;left: 0em;
+}
+#eline1{
+    border: 1px solid black;
+    width: 15%;
+} */
+
+.container{
+    margin-bottom:20%;
+    margin-left: 1px;
+}
+
+    
+    
+.container div
+{
+        border: 2px solid white;
+        float: left;
+        height: 21em;
+        width: 24%;
+        margin-right: 10px;
+        background-color: lightgray;
+        
+}
+    
+
+    
+
+#contactfull{
+    background-color: beige;
+}
+
+
+#con{
+  
+    text-align: center; 
+}
+#cline{
+    border: 1px solid black;
+    width: 7%;
+    text-align: center;
+}
+
+
+
+
+form{
+    text-align: center;
+    width:"75%";
+    margin-top: "6px";
+  }
+  #fline1{
+    border: 1px solid black;
+    width: 15%;
+} 
+
+#slinks{
+    background-color: rgb(24, 49, 58);
+}
+
+
+nav{
+    text-align: center;
+    margin-bottom:30px;
+}
+
+#top
+{
+    float: right;
+    margin-right: 8em;
+}
+
+#copyright{
+    float: left;
+}
+
